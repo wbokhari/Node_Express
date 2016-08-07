@@ -5,6 +5,8 @@ This is a Social Security Calculator that calculates how different permutations 
 
 git clone https://github.com/wbokhari/SS_Calculator.git
 
+npm install
+
 node index.js (from the terminal/I use gitbash)
 
 go to http://localhost:3000/notes to check response
