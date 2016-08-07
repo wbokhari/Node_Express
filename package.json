@@ -1,0 +1,22 @@
+{
+  "name": "ss_calculator",
+  "version": "1.0.0",
+  "description": " calculates how different permutations and combinations affect social security compensation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbokhari/SS_Calculator.git"
+  },
+  "author": "Wasif Bokhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbokhari/SS_Calculator/issues"
+  },
+  "homepage": "https://github.com/wbokhari/SS_Calculator#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
